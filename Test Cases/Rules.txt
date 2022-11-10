@@ -1,0 +1,22 @@
+Test case:
+- Test case ID.
+- Product module.
+- Product version.
+- Revision history.
+- Purpose.
+- Assumptions.
+- Pre-conditions.
+- Steps.
+- Expected outcome.
+- Actual outcome.
+- Post-conditions.
+
+Test Scenario - it is a one line statement which purpose is to inform what particular area in the application will be tested.
+
+Types of Performance Testing:
+- Load: determine how application deal with a large amount of data.
+
+- Stress: examine application behavior under peak bursts of activity.
+
+- Capacity: measure overall capacity and determine at what time response time become unacceptable
+

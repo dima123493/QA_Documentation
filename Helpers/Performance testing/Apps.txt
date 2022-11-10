@@ -1,0 +1,13 @@
+- LoadRunner(HP): for web and other applications, that provides a variety of application environments, platforms and database.
+
+- WebLoad(RadView): lets you perform load and stress testing on any internet application.
+
+- LoadUI NG Pro: makes it easy to model real-world loads on your API.
+
+- Apica LoadTest: offers flexible self-service and full-service load testing.
+
+- LoadView: fully managed, on-demand load testing tool that allows for completely hassle-free load and stress testing.
+
+- Load Xen: load testing software which helps to scale an application by simulating thousands or millions of virtual users.
+
+- Apache JMeter: can be integrated with the test plan. This tool has the capacity to be loaded into a server or network so as to check on its performance and analyze its working under different conditions.
